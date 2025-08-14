@@ -1,0 +1,6 @@
+penalty_id,loan_id,penalty_date,penalty_amount,reason
+1,103,2023-05-20,500.00,"Late Payment"
+2,106,2023-06-05,800.00,"Late Payment"
+3,109,2023-07-02,600.00,"Late Payment"
+4,112,2023-07-18,750.00,"Late Payment"
+5,115,2023-07-25,900.00,"Late Payment"
